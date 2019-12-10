@@ -39,7 +39,7 @@
     "react-custom-scrollbars": "^4.2.1",
     "react-dom": "^16.8.6",
     "react-redux": "^7.0.3",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^3.3.0",
     "react-test-renderer": "^16.8.6",
     "redux": "^4.0.1",
     "reselect": "^4.0.0"
